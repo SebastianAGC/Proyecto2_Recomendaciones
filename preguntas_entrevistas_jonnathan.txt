@@ -1,0 +1,54 @@
+ENTREVISTAS
+
+¿Tienes una computadora? SI/NO
+SI
+
+Si si,¿Qué tipo de computadora tienes? Laptop / Desktop
+LAPTOP
+
+	Si es laptop, ¿Quisieras armar una desktop? SI/NO
+		SI
+		Si si, ¿Porqué quisieras armar una computadora? / ¿Porque no has podido armarla?
+		Debido a que los componentes para armarla tienen un costo bastante elevado en el pais.
+		
+		¿Qué factores influirian si armaras tu computadora?
+			Obtener el  mejor rendimiento por dolar invertido.
+
+		¿Sabrías que componentes comprar?
+			Tengo la idea de algunos. Peor no  los tengo tan claros
+		¿Que buscarías al comprar un nuevo componente?
+			que no sea muy caro, tenga buen feedback por parte de los usuarios y un buen rendimiento
+		¿Qué función le darías a tu computadora?
+			Realizar tareeas de la universidad y entretenimiento(consumo multimedia y juegos)
+		Si no, ¿Porque no quisieras armar tu computadora? 
+			N/A
+	Si es Desktop
+
+	 	¿Cómo fue tu experiencia armando tu computadora?
+
+	 	¿Qué cuidados tuviste que tener al armar tu computadora?
+
+		Al inicio, Sabias que componentes debias comprar?
+
+		¿Qué factores influyeron en tu compra?
+
+		¿Recibiste alguna ayuda al elegir los componentes?
+		
+		¿Qué buscas al comprar un componente de computadora?
+
+		¿Qué función le das a tu computadora?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
